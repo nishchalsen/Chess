@@ -1,7 +1,7 @@
 How to Play:
 Tap to choose the piece
-Tap the same piece to cancel choice
-After you chose a piece, tap other valid square to move your chosen piece
+Tap the same piece to cancel the choice
+After you chose a piece, tap another valid square to move your chosen piece
 
 The Pieces:
 Pawns - move one square forwards. Have the option of moving one or two squares on their first move. Capture by moving one square diagonally forwards. Promoted to another piece if they reach the far end of the board.
@@ -12,5 +12,5 @@ The Queen - moves any number of squares vertically, horizontally, or diagonally 
 The King - moves one square in any direction. May not move onto a square threatened by an enemy piece.
 
 Check and Checkmate:
-Check - if the king is threatened by an enemy piece, he is in 'check', and must escape from check. This can be done by moving the king, capturing the checking piece, or blocking the checking piece (so long as it isn't a knight).
+Check - if the king is threatened by an enemy piece, he is in 'check', and must escape from this situation. This can be done by moving the king, capturing the checking piece, or blocking the checking piece (so long as it isn't a knight).
 Checkmate - if the king is in check and can't get out of check, he is in checkmate and the game is lost.
