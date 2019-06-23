@@ -1,0 +1,16 @@
+How to Play:
+Tap to choose the piece
+Tap the same piece to cancel choice
+After you chose a piece, tap other valid square to move your chosen piece
+
+The Pieces:
+Pawns - move one square forwards. Have the option of moving one or two squares on their first move. Capture by moving one square diagonally forwards. Promoted to another piece if they reach the far end of the board.
+Knights - move in an L-shape - one square vertically and two squares horizontally, or one square horizontally and two squares vertically. Can jump over any pieces in its path.
+Bishops - move any number of squares diagonally in a straight line. May not jump over other pieces.
+Rooks - move any number of squares vertically or horizontally in a straight line. May not jump over other pieces.
+The Queen - moves any number of squares vertically, horizontally, or diagonally in a straight line. May not jump over other pieces.
+The King - moves one square in any direction. May not move onto a square threatened by an enemy piece.
+
+Check and Checkmate:
+Check - if the king is threatened by an enemy piece, he is in 'check', and must escape from check. This can be done by moving the king, capturing the checking piece, or blocking the checking piece (so long as it isn't a knight).
+Checkmate - if the king is in check and can't get out of check, he is in checkmate and the game is lost.
